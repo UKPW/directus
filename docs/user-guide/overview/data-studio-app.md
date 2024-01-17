@@ -68,4 +68,4 @@ The sidebar provides additional context and options for the current page, includ
   the App window is large enough, the sidebar will automatically open, and can be closed by clicking the "X" in the
   top-right.
 - **Notifications Tray** — Fixed to the bottom of the page sidebar, this button opens a tray of recent user
-  notifications, and provides a link to your Activity Log page.
+  notifications, and provides a link to your Activity Log page. yes
